@@ -1,3 +1,5 @@
+27, barbarian, human. Chaotic good. Man of the people.
+
 Vendrick grew up in the rough and tumble [[Undercity]]. He has no formal education beyond what he learned in order to survive. He ran with a gang of close confidants he could trust (or could he?). In this gang, there were:
 [[Bryes]], the smooth talker
 [[Falyn]], the pickpocket
