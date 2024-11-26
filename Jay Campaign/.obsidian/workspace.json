@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bryes.md",
+                "file": "Falyn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bryes"
+              "title": "Falyn"
             }
           }
         ]
@@ -164,13 +164,13 @@
   },
   "active": "eb9a2f34f64385f0",
   "lastOpenFiles": [
+    "Highwater.md",
+    "Bryes.md",
     "Dirk.md",
     "Vendrick.md",
-    "Bryes.md",
     "Falyn.md",
     "job gone wrong.md",
     "siege.md",
-    "Highwater.md",
     "Undercity.md",
     "Welcome.md"
   ]
