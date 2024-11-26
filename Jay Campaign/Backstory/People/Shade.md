@@ -1,0 +1,1 @@
+Information broker in the [[Undercity]]. Nobody knows their true identity, and they typically operate through a constantly rotating roster of proxies.
