@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "190903c8ecdb3110",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1ebd9667a67295d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb9a2f34f64385f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bryes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bryes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b78f08fdc22a8ddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "08bbc2698ff633b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae50dda4d3de75d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "40b3fa4c059cb8ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6ff60c4b5e2fae02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32e585f121a62e63",
+    "type": "split",
+    "children": [
+      {
+        "id": "f223c81fe8bd2e24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "217099e382f32b43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "job gone wrong.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for job gone wrong"
+            }
+          },
+          {
+            "id": "0b5c580804b1d6ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "job gone wrong.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from job gone wrong"
+            }
+          },
+          {
+            "id": "5413e86ef0835c8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7ec38aedd213b165",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "job gone wrong.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of job gone wrong"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eb9a2f34f64385f0",
+  "lastOpenFiles": [
+    "Dirk.md",
+    "Vendrick.md",
+    "Bryes.md",
+    "Falyn.md",
+    "job gone wrong.md",
+    "siege.md",
+    "Highwater.md",
+    "Undercity.md",
+    "Welcome.md"
+  ]
+}

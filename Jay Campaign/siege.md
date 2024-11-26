@@ -1,0 +1,1 @@
+25 year long siege between two warring factions. Defending city was originally founded surrounding a druid grove. Attacking faction is warmongering, more science than magic.
